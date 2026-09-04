@@ -37,7 +37,7 @@ If the rooftop closes, the closing showcase will move to the Innovation Atrium.
 
 ## Unresolved items
 
-- Choose a festival slogan.
+- I used ChatGPT to create this slogan.
 - Add one new student-led attraction.
 - Confirm the opening ceremony time and location after team review.
 
